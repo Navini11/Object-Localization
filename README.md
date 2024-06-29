@@ -4,6 +4,8 @@ This project demonstrates object localization using deep learning with PyTorch. 
 
 ## 🔍 Overview
 
+![Screenshot 2024-06-30 011439](https://github.com/Navini11/Object-Localization/assets/123384639/31f84d18-afc7-4d9f-a2b7-c53b6e64d8cc)
+
 - **Task**: Object localization on images.
 - **Dataset**: Custom dataset with bounding box annotations.
 - **Model**: Fine-tuned EfficientNet from TIMM.
