@@ -15,7 +15,7 @@ This project demonstrates object localization using deep learning with PyTorch. 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/object-localization.git
+   git clone https://github.com/Navini11/object-localization.git
    ```
 2. Install the required packages:
    ```bash
